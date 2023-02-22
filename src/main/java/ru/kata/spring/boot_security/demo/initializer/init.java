@@ -57,3 +57,5 @@ public class init {
         userRepository.save(normalUser);
     }
 }
+
+
